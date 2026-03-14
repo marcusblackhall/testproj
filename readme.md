@@ -17,6 +17,6 @@ This will show the difference in the remote branch you have just fetched
 git rebase origin/main
 ```
 
-Now you have your local commit onto of the origin/main
+Now you have your local commit on top of the origin/main
 
 
